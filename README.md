@@ -12,6 +12,7 @@ This is a small script that create two actions (available in custom menu) :
 
 * Take a lineart and prepare coloring by adding layers and groups for proper organisation :
 
+```
     container
     |
     |------- lineart
@@ -21,14 +22,17 @@ This is a small script that create two actions (available in custom menu) :
     |------- colors
              |
              |-------- base (add color here)
+```
 
 * Take a layer, split the alpha and organize everything  to easily add shaders, textures, ... to your drawing. 
 
+```
     container
     |
     |------- mask
     |
     |------- base color
+```
     
 By using thoses two scripts together, you can achieve faster complexe drawing with a lot of detail and still keep organized workspace !
 
