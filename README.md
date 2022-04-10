@@ -8,7 +8,7 @@ I'm lazy so just open it with tools > script > scripter and import the file, the
 
 ## usage
 
-This is a small script that create two actions :
+This is a small script that create two actions (available in custom menu) :
 
 * Take a lineart and prepare coloring by adding layers and groups for proper organisation :
 
@@ -29,7 +29,7 @@ This is a small script that create two actions :
     |------- mask
     |
     |------- base color
-
+    
 By using thoses two scripts together, you can achieve faster complexe drawing with a lot of detail and still keep organized workspace !
 
 ## Improving the tool
